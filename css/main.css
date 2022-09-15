@@ -1,0 +1,20 @@
+body{
+   background-image:url(https://img.freepik.com/free-photo/vegetables-set-to-the-left-of-a-black-slate_1220-685.jpg?size=626&ext=jpg&ga=GA1.2.1621000883.1663228103) ;
+ background-repeat: no-repeat;
+ background-position:  center;
+ background-size: cover;
+ color: #fff;
+}
+#first{
+background-image: url();
+background-repeat: no-repeat center top;
+height: 700px ;
+background-size: cover;
+background-attachment: fixed;
+}
+ #second {
+    height: 5000px;
+ }
+ .text {
+   text-align:  center;
+  }
